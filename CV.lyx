@@ -1,0 +1,754 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\begin_preamble
+\frenchspacing
+\usepackage{amsmath}
+\newcommand{\ø}{\raisebox{.3ex}{\tiny$\; \bullet \;$}}
+\renewcommand{\arraystretch}{1.25}
+\usepackage{fancyheadings}
+\pagestyle{fancy}
+\chead{\textit{Mokbel Karam · Curriculum Vitae}}
+\usepackage{mathpazo}
+\usepackage{multicol}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 2
+\use_package cancel 1
+\use_package esint 0
+\use_package mathdots 0
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.6in
+\rightmargin 0.75in
+\bottommargin 0.6in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\align center
+
+\size large
+Mokbel Karam
+\begin_inset Newline newline
+\end_inset
+
+
+\emph on
+Graduate Research Assistant 
+\begin_inset Newline newline
+\end_inset
+
+Department of Chemical Engineering
+\begin_inset Newline newline
+\end_inset
+
+The University of Utah 
+\begin_inset Newline newline
+\end_inset
+
+Salt Lake City, UT 84112, USA
+\begin_inset Newline newline
+\end_inset
+
+Phone: +1 (801) 300-9396
+\begin_inset Newline newline
+\end_inset
+
+email: mokbel.karam@chemeng.utah.edu
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace 13pt
+\end_inset
+
+
+\series bold
+Research Interests
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Low-Mach-number flows, Pressure Projection Methods, Modified Equations,
+ Machine Learning, Computational Fluid Dynamics, Simulation Science .
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Education
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2017– Ph.D.
+ Candidate / University of Utah, Salt Lake City Utah
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2013–17 Bachelor in Mechanical Engineering / Notre Dame University, Zouk
+ Mosbeh, Lebanon
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Graduated with a GPA of 3.89, Highest distinction.
+\end_layout
+
+\begin_layout Itemize
+Dean’s List for all semesters
+\end_layout
+
+\begin_layout Itemize
+Scholarship: 75% Scholarship, all semesters
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Skills 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Communication Skills:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Leadership skills
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+President of the American Society of Mechanical Engineers student section
+ at NDU-North Lebanon Campus in 2013-2014.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Languages
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+English (Good)
+\end_layout
+
+\begin_layout Itemize
+French (Fair)
+\end_layout
+
+\begin_layout Itemize
+Arabic (Native Language)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Computer Skills:
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Python, Sympy (symbolic library Python), Sci-kit Learn, Tensorflow, C++,
+ object oriented programming, Matlab, Web app development using Dash Python,
+ Latex.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Publications
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Conference 
+\series bold
+Papers
+\series default
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 Tony Saad, 
+\series bold
+Mokbel Karam
+\series default
+, and James C.
+ Sutherland.
+ "An Explicit Variable-Density Projection Method for Low-Mach Reacting Flows
+ on Structured Uniform Grids", 2018 Fluid Dynamics Conference, AIAA AVIATION
+ Forum, (AIAA 2018-4266)
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Presentations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 
+\series bold
+Mokbel Karam
+\series default
+, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
+\begin_inset Quotes erd
+\end_inset
+
+, 2018 Rocky Mountain Fluid Mechanics (RMFM) Research Symposium.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Experience
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2018 Gained 10 weeks of experience in Machine Learning at Lawrence Livermore
+ National Laboratory, Livermore CA , from June 4th to August 10th.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 Gained one month of experience in maintenance of kilns at a cement
+ plant, August 2016 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+2016 Gained one month of experience in maintenance of refrigeration system
+ at a poultry company, July 2016 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+- Have been tutoring Math and physics lessons for high school students.
+\series bold
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Service
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Reviewer for 
+\emph on
+Journal of Abstruse Generalizations,
+\emph default
+ 
+\emph on
+Archive for the True but Trivial.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\series bold
+Affiliations
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+\begin_inset space ~
+\end_inset
+
+ Mathematical Association of America
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+\begin_inset space ~
+\end_inset
+
+ American Mathematical Society
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Reference
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0.5ex"
+width "100line%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace -8pt
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Prof.
+ 
+\series bold
+Tony Saad
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Assistant Professor 
+\end_layout
+
+\begin_layout Standard
+Department of Chemical Engineering 
+\end_layout
+
+\begin_layout Standard
+The University of Utah
+\end_layout
+
+\begin_layout Standard
+tony.saad@chemeng.utah.edu
+\end_layout
+
+\begin_layout Standard
+Salt Lake City, UT 84112, USA
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Prof.
+ 
+\series bold
+James C.
+ Sutherland
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Associate Professor
+\end_layout
+
+\begin_layout Standard
+Department of Chemical Engineering 
+\end_layout
+
+\begin_layout Standard
+University of Utah 
+\end_layout
+
+\begin_layout Standard
+Salt Lake City, UT, 84112
+\end_layout
+
+\begin_layout Standard
+Oce: (801) 585-1246
+\end_layout
+
+\begin_layout Standard
+james.sutherland@utah.edu
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Prof.
+ Michel el Hayek 
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Professor and Dean Mechanical Engineering
+\end_layout
+
+\begin_layout Standard
+Notre Dame University
+\end_layout
+
+\begin_layout Standard
+Zouk Mosbeh, Lebanon
+\end_layout
+
+\begin_layout Standard
+Oce: (961) 9-218-950 – Ext: 2032 
+\end_layout
+
+\begin_layout Standard
+mhayek@ndu.edu.lb
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Prof.
+ 
+\series bold
+Chady Ghnatios
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Assistant Professor 
+\end_layout
+
+\begin_layout Standard
+Department Mechanical Engineering
+\end_layout
+
+\begin_layout Standard
+Notre Dame University
+\end_layout
+
+\begin_layout Standard
+Zouk Mosbeh, Lebanon
+\end_layout
+
+\begin_layout Standard
+cghnatios@ndu.edu.lb
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
