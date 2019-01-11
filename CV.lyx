@@ -326,36 +326,6 @@ height "1pt"
 
 \end_layout
 
-\begin_layout Description
-Conference 
-\series bold
-Papers
-\series default
- 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
-2018 Tony Saad, 
-\series bold
-Mokbel Karam
-\series default
-, and James C.
- Sutherland, "An Explicit Variable-Density Projection Method for Low-Mach
- Reacting Flows on Structured Uniform Grids", 2018 Fluid Dynamics Conference,
- AIAA AVIATION Forum, (AIAA 2018-4266)
-\begin_inset Newpage pagebreak
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Pending 
-\series bold
-Submissions
-\end_layout
-
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2019 
@@ -402,7 +372,7 @@ Efficient Multistage Time Integrators for Incompressible Flows Using Projection
 \begin_inset Quotes erd
 \end_inset
 
-, SIAM Conference on Computational Science and Engineering, under review.
+, SIAM Conference on Computational Science and Engineering, accepted.
 \end_layout
 
 \begin_layout Labeling
@@ -441,6 +411,18 @@ Tony Saad, and James C.
 
 , 2019 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
  under review.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 Tony Saad, 
+\series bold
+Mokbel Karam
+\series default
+, and James C.
+ Sutherland, "An Explicit Variable-Density Projection Method for Low-Mach
+ Reacting Flows on Structured Uniform Grids", 2018 Fluid Dynamics Conference,
+ AIAA AVIATION Forum, (AIAA 2018-4266).
 \end_layout
 
 \begin_layout Standard
@@ -485,11 +467,7 @@ Mokbel Karam
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-
-\series bold
-2018
-\series default
- 
+2018 
 \series bold
 Mokbel Karam
 \series default
@@ -507,9 +485,9 @@ Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-
+2018
 \series bold
-2018 Mokbel Karam
+ Mokbel Karam
 \series default
 , Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
  
