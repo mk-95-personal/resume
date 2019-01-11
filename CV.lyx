@@ -189,6 +189,12 @@ height "1pt"
  Candidate / University of Utah, Salt Lake City Utah
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+Current GPA: 3.933
+\end_layout
+
+\end_deeper
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
 2013–17 Bachelor in Mechanical Engineering / Notre Dame University, Zouk
@@ -335,21 +341,86 @@ Papers
 Mokbel Karam
 \series default
 , and James C.
- Sutherland.
- "An Explicit Variable-Density Projection Method for Low-Mach Reacting Flows
- on Structured Uniform Grids", 2018 Fluid Dynamics Conference, AIAA AVIATION
- Forum, (AIAA 2018-4266)
-\begin_inset Separator plain
+ Sutherland, "An Explicit Variable-Density Projection Method for Low-Mach
+ Reacting Flows on Structured Uniform Grids", 2018 Fluid Dynamics Conference,
+ AIAA AVIATION Forum, (AIAA 2018-4266)
+\begin_inset Newpage pagebreak
 \end_inset
 
 
 \end_layout
 
-\begin_layout Standard
-\begin_inset Newpage pagebreak
+\begin_layout Description
+Pending 
+\series bold
+Publications
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad, and James C.
+ Sutherland, "A Simple Mechanistic Scheme for Modified Equation Analysis",
+ Journal of Computational Physics.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam
+\series default
+, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
+ 
+\begin_inset Quotes eld
 \end_inset
 
+Exploring the Predictibility of Random Forests & Deep Neural Networks for
+ the Sedov-Von Neumann-Taylor Blast Wave Solution
+\begin_inset Quotes erd
+\end_inset
 
+, SIAM Conference on Computational Science and Engineering.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad, and James C.
+ Sutherland, 
+\begin_inset Quotes eld
+\end_inset
+
+Efficient Multistage Time Integrators for Incompressible Flows Using Projection
+ Methods
+\begin_inset Quotes erd
+\end_inset
+
+, SIAM Conference on Computational Science and Engineering.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad, and James C.
+ Sutherland, 
+\begin_inset Quotes eld
+\end_inset
+
+A Framework for Analyzing the Temporal Accuracy of Pressure Projection Methods
+\begin_inset Quotes erd
+\end_inset
+
+, 2019 Fluid Dynamics Conference
 \end_layout
 
 \begin_layout Standard
