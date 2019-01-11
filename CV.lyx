@@ -363,8 +363,8 @@ Submissions
 Mokbel Karam, 
 \series default
 Tony Saad, and James C.
- Sutherland, "A Simple Mechanistic Scheme for Modified Equation Analysis",
- Journal of Computational Physics.
+ Sutherland, "A Short Note on Deriving Modified Equations", Journal of Computati
+onal Physics, under review.
 \end_layout
 
 \begin_layout Labeling
@@ -383,7 +383,7 @@ Exploring the Predictability of Random Forests & Deep Neural Networks for
 \begin_inset Quotes erd
 \end_inset
 
-, SIAM Conference on Computational Science and Engineering.
+, SIAM Conference on Computational Science and Engineering, accepted.
 \end_layout
 
 \begin_layout Labeling
@@ -402,7 +402,7 @@ Efficient Multistage Time Integrators for Incompressible Flows Using Projection
 \begin_inset Quotes erd
 \end_inset
 
-, SIAM Conference on Computational Science and Engineering.
+, SIAM Conference on Computational Science and Engineering, under review.
 \end_layout
 
 \begin_layout Labeling
@@ -420,7 +420,27 @@ A Framework for Analyzing the Temporal Accuracy of Pressure Projection Methods
 \begin_inset Quotes erd
 \end_inset
 
-, 2019 Fluid Dynamics Conference
+, 2019 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
+ under review.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad, and James C.
+ Sutherland, 
+\begin_inset Quotes eld
+\end_inset
+
+ A Simple Mechanistic Scheme for Modified Equation Analysis
+\begin_inset Quotes erd
+\end_inset
+
+, 2019 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
+ under review.
 \end_layout
 
 \begin_layout Standard
@@ -453,7 +473,23 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2018 
+2018 Tony Saad, 
+\series bold
+Mokbel Karam
+\series default
+, and James C.
+ Sutherland, "An Explicit Variable-Density Projection Method for Low-Mach
+ Reacting Flows on Structured Uniform Grids", 2018 Fluid Dynamics Conference,
+ AIAA AVIATION Forum, (AIAA 2018-4266)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\series bold
+2018
+\series default
+ 
 \series bold
 Mokbel Karam
 \series default
@@ -466,7 +502,25 @@ Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
 \begin_inset Quotes erd
 \end_inset
 
-, 2018 Rocky Mountain Fluid Mechanics (RMFM) Research Symposium.
+, Seminar, Lawrence Livermore National Laboratory.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring MMMMM
+
+\series bold
+2018 Mokbel Karam
+\series default
+, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
+\begin_inset Quotes erd
+\end_inset
+
+, 2018 Rocky Mountain Fluid Mechanics (RMFM) Research Symposium, CU Boulder.
 \end_layout
 
 \begin_layout Standard
@@ -499,8 +553,9 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring MMMMM
-2018 Gained 10 weeks of experience in Machine Learning at Lawrence Livermore
- National Laboratory, Livermore CA , from June 4th to August 10th.
+2018 PSAAP II student internship: Spent 10 weeks at Lawrence Livermore National
+ Laboratory with a focus on Machine Learning, Livermore CA , from June 4th
+ to August 10th.
  
 \end_layout
 
@@ -616,6 +671,10 @@ height "1pt"
  American Mathematical Society
 \end_layout
 
+\end_inset
+
+
+\begin_inset Newpage pagebreak
 \end_inset
 
 
