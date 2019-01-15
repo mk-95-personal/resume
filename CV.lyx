@@ -341,44 +341,6 @@ onal Physics, under review.
 \labelwidthstring 00.00.0000
 2019 
 \series bold
-Mokbel Karam
-\series default
-, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Exploring the Predictability of Random Forests & Deep Neural Networks for
- the Sedov-Von Neumann-Taylor Blast Wave Solution
-\begin_inset Quotes erd
-\end_inset
-
-, SIAM Conference on Computational Science and Engineering, accepted.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2019 
-\series bold
-Mokbel Karam, 
-\series default
-Tony Saad, and James C.
- Sutherland, 
-\begin_inset Quotes eld
-\end_inset
-
-Efficient Multistage Time Integrators for Incompressible Flows Using Projection
- Methods
-\begin_inset Quotes erd
-\end_inset
-
-, SIAM Conference on Computational Science and Engineering, accepted.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2019 
-\series bold
 Mokbel Karam, 
 \series default
 Tony Saad, and James C.
@@ -454,7 +416,46 @@ height "1pt"
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring MMMMM
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad, and James C.
+ Sutherland, 
+\begin_inset Quotes eld
+\end_inset
+
+Efficient Multistage Time Integrators for Incompressible Flows Using Projection
+ Methods
+\begin_inset Quotes erd
+\end_inset
+
+, SIAM Conference on Computational Science and Engineering, accepted.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam
+\series default
+, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Exploring the Predictability of Random Forests & Deep Neural Networks for
+ the Sedov-Von Neumann-Taylor Blast Wave Solution
+\begin_inset Quotes erd
+\end_inset
+
+, SIAM Conference on Computational Science and Engineering, accepted.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2018 Tony Saad, 
 \series bold
 Mokbel Karam
@@ -466,25 +467,7 @@ Mokbel Karam
 \end_layout
 
 \begin_layout Labeling
-\labelwidthstring MMMMM
-2018 
-\series bold
-Mokbel Karam
-\series default
-, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
- 
-\begin_inset Quotes eld
-\end_inset
-
-Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
-\begin_inset Quotes erd
-\end_inset
-
-, Seminar, Lawrence Livermore National Laboratory.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring MMMMM
+\labelwidthstring 00.00.0000
 2018
 \series bold
  Mokbel Karam
@@ -499,6 +482,24 @@ Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
 \end_inset
 
 , 2018 Rocky Mountain Fluid Mechanics (RMFM) Research Symposium, CU Boulder.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2018 
+\series bold
+Mokbel Karam
+\series default
+, Fady Najjar, Ming Jiang, James Sutherland, and Tony Saad.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Applying Machine Learning to the Sedov-von Neumann-Taylor Blast Wave
+\begin_inset Quotes erd
+\end_inset
+
+, Seminar, Lawrence Livermore National Laboratory.
 \end_layout
 
 \begin_layout Standard
