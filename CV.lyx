@@ -204,7 +204,7 @@ height "1pt"
 
 \begin_deeper
 \begin_layout Itemize
-Current GPA: 3.933
+Current GPA: 3.902
 \end_layout
 
 \end_deeper
@@ -321,13 +321,32 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
-2019 
+2020 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad 
+\begin_inset Quotes eld
+\end_inset
+
+Stability of Low-Cost Runge Kutta Schemes for IncompressibleNavier Stokes
+ Equations
+\begin_inset Quotes erd
+\end_inset
+
+, 2020 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
+ under review.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 
 \series bold
 Mokbel Karam,
 \series default
  James C.
- Sutherland, and Tony Saad, "A Simple Recipe for Modified Equation Analysis",
- SIAM Journal on Numerical Analysis, under review.
+ Sutherland, and Tony Saad, "MOIRA: A Python Software for Modified Equation
+ Generation", SoftwareX, under review.
 \end_layout
 
 \begin_layout Labeling
@@ -345,7 +364,8 @@ A Framework for Analyzing the Temporal Accuracy of Pressure Projection Methods
 \begin_inset Quotes erd
 \end_inset
 
-, 2019 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum.
+, 2019 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
+ (AIAA 2019-3634).
 \end_layout
 
 \begin_layout Labeling
@@ -357,7 +377,7 @@ Mokbel Karam
 , and James C.
  Sutherland, "An Explicit Variable-Density Projection Method for Low-Mach
  Reacting Flows on Structured Uniform Grids", 2018 Fluid Dynamics Conference,
- AIAA AVIATION Forum, (AIAA 2018-4266).
+ AIAA Aviation Forum, (AIAA 2018-4266).
 \end_layout
 
 \begin_layout Standard
@@ -390,6 +410,42 @@ height "1pt"
 
 \begin_layout Labeling
 \labelwidthstring 00.00.0000
+2020 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad 
+\begin_inset Quotes eld
+\end_inset
+
+Stability of Low-Cost Runge Kutta Schemes for IncompressibleNavier Stokes
+ Equations
+\begin_inset Quotes erd
+\end_inset
+
+, 2020 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad 
+\begin_inset Quotes eld
+\end_inset
+
+Efficient Runge-Kutta Methods for Incompressible Flow
+\begin_inset Quotes erd
+\end_inset
+
+, 2019 Graduate Symposium, Chemical Engineering Department, The University
+ of Utah.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
 2019 
 \series bold
 Mokbel Karam, 
@@ -404,6 +460,25 @@ On a Class of High-Order, Low-Cost Time Integrators for the Navier-Stokes
 \end_inset
 
 , 2019 Rocky Mountain Fluid Mechanics (RMFM) Research Symposium, CU Boulder.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2019 
+\series bold
+Mokbel Karam, 
+\series default
+Tony Saad, Michael Hansen, and James C.
+ Sutherland, 
+\begin_inset Quotes eld
+\end_inset
+
+A Framework for Analyzing the Temporal Accuracy of Pressure Projection Methods
+\begin_inset Quotes erd
+\end_inset
+
+, 2019 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
+ (AIAA 2019-3634).
 \end_layout
 
 \begin_layout Labeling
@@ -454,7 +529,7 @@ Mokbel Karam
 , and James C.
  Sutherland, "An Explicit Variable-Density Projection Method for Low-Mach
  Reacting Flows on Structured Uniform Grids", 2018 Fluid Dynamics Conference,
- AIAA AVIATION Forum, (AIAA 2018-4266)
+ AIAA Aviation Forum, (AIAA 2018-4266)
 \end_layout
 
 \begin_layout Labeling
