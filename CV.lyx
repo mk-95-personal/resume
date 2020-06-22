@@ -323,30 +323,11 @@ height "1pt"
 \labelwidthstring 00.00.0000
 2020 
 \series bold
-Mokbel Karam, 
-\series default
-Tony Saad 
-\begin_inset Quotes eld
-\end_inset
-
-Stability of Low-Cost Runge Kutta Schemes for IncompressibleNavier Stokes
- Equations
-\begin_inset Quotes erd
-\end_inset
-
-, 2020 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum,
- under review.
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2020 
-\series bold
 Mokbel Karam,
 \series default
  James C.
- Sutherland, and Tony Saad, "MOIRA: A Python Software for Modified Equation
- Generation", SoftwareX, under review.
+ Sutherland, and Tony Saad, "PyModPDE: A python software for modified equation
+ analysis", 2020, SoftwareX (Volume 12, 100541).
 \end_layout
 
 \begin_layout Labeling
@@ -406,24 +387,6 @@ height "1pt"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Labeling
-\labelwidthstring 00.00.0000
-2020 
-\series bold
-Mokbel Karam, 
-\series default
-Tony Saad 
-\begin_inset Quotes eld
-\end_inset
-
-Stability of Low-Cost Runge Kutta Schemes for IncompressibleNavier Stokes
- Equations
-\begin_inset Quotes erd
-\end_inset
-
-, 2020 AIAA Computational Fluid Dynamics Conference, AIAA Aviation Forum.
 \end_layout
 
 \begin_layout Labeling
