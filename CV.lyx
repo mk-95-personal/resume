@@ -163,7 +163,7 @@ My research focuses on increasing the efficiency of numerical techniques
  computational cost involved in these simulations.
  Following this objective, I worked on projects in different areas involving:
  Low-Mach-number flows, Pressure Projection Methods, Modified Equations,
- Machine Learning, Computational Fluid Dynamics, Simulation Science, Parallel
+ Machine Learning, Computational Fluid Dynamics, Time Integrators, Parallel
  Computing.
 \end_layout
 
@@ -204,7 +204,7 @@ height "1pt"
 
 \begin_deeper
 \begin_layout Itemize
-Current GPA: 3.902
+Current GPA: 3.88
 \end_layout
 
 \end_deeper
@@ -317,6 +317,68 @@ height "1pt"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021
+\series bold
+ Mokbel Karam,
+\series default
+ and Tony Saad, "Stability criteria for advection diffusion using explicit
+ multi-stage integrators", 2021, International Journal for Numerical Methods
+ in Fluids, (pending submission).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021
+\series bold
+ Mokbel Karam,
+\series default
+ and Tony Saad, "Comments on 
+\begin_inset Quotes eld
+\end_inset
+
+Approximate Projection Method for the Incompressible Navier–Stokes Equations
+\begin_inset Quotes erd
+\end_inset
+
+", 2021, AIAA Journal (pending submission).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2021
+\series bold
+ Mokbel Karam,
+\series default
+ and Tony Saad, "BuckinghamPy: A python software for dimensional analysis",
+ 2021, SoftwareX (pending submission).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020 Hayden A.
+ Hedworth
+\series bold
+, Mokbel Karam,
+\series default
+ Josh McConnell, James C.
+ Sutherland, and Tony Saad, "COVID-19 Mitigation for Orchestras using Computatio
+nal Fluid Dynamics", 2020, Science Advances (under review).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2020
+\series bold
+ Mokbel Karam,
+\series default
+ James C.
+ Sutherland, and Tony Saad, "Low-Cost Runge-Kutta Integrators for Incompressible
+ Flow Simulations", 2020, Journal of Computational Physics (conditionally
+ accepted).
 \end_layout
 
 \begin_layout Labeling
